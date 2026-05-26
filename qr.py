@@ -1,4 +1,5 @@
 import qrcode
+import pandas
 
 website_link = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
 
